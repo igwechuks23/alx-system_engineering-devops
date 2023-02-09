@@ -1,0 +1,4 @@
+#!/bin/bash
+current_dir=$(pwd)
+parent_dir=$(dirname "$current_dir")
+ls -al "$current_dir" "$parent_dir" /boot
