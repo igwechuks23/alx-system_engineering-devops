@@ -1,0 +1,1 @@
+total 16 drwxr-xr-x 2 root root 99 Feb 8 20:45 . drwxr-xr-x 4 root root 43 Feb 8 20:27 .. -rw-r--r-- 1 root root 49 Feb 8 20:28 0-current_working_directory -rw-r--r-- 1 root root 28 Feb 8 20:34 1-listit -rw-r--r-- 1 root root 6 Feb 8 20:39 2-bring_me_home -rw-r--r-- 1 root root 355 Feb 8 20:45 3-listfiles
