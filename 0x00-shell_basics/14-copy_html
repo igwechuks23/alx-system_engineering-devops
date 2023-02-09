@@ -1,23 +1,23 @@
 #!bin/bash
 cwd=$(pwd)
-pdir=$(dirname "$cwd")
 
-for file in "$cwd"/*.html; do
 
-	filename=$(basename "$file")
 
-	if [ -e "$pdir/$filename" ]; then
 
-		if [ "$file" -nt "$pdir/$filename" ]; then
 
-			cp "$file" "$pdir/$filename"
-      			echo "Copied $file to $pdir/$filename"	
 
-			fi
-  		elsfi
-		else
 
-		cp "$file" "$pdir/$filename"
-    		echo "Copied $file to $pdir/$filename"
-  	fi
-done		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
